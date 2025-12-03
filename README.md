@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Olá! Meu nome é Maicon, tenho 27 anos, sou natural de Manaus. <br>Atualmente focado em Desenvolvimento front-end, no início da carreira, motivado pela curiosidade e vontade aprender.
 
 
