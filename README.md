@@ -12,4 +12,6 @@ Olá! Meu nome é Maicon, tenho 27 anos, sou natural de Manaus, Técnico em info
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maicon-salustiano&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🐍 GitHub Snake Game
-<img src="https://raw.githubusercontent.com/maicon-salustiano/maicon-Salustiano/output/github-contribution-grid-snake.svg?palette=github-dark" alt="Minha Cobrinha"/>
+<p align="center">
+  <img src="https://github.com/maicon-salustiano/maicon-Salustiano/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Minha Cobrinha" />
+</p>
